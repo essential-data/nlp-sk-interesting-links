@@ -1,5 +1,6 @@
 # nlp-sk-interesting-links
-Interesting links to Slovak NLP tools, utils, corpora and resources.
+Interesting links to **Slovak** NLP tools, utils, corpora and resources.
+Feel free to add more interesting links via pull request.
 
 ## Corpora
 - https://korpus.sk/structure1.html
@@ -12,6 +13,7 @@ Interesting links to Slovak NLP tools, utils, corpora and resources.
 - http://nlp.web.tuke.sk/static/files//scnc21.zip
 - http://ufal.mff.cuni.cz/~majlis/w2c/download.html
 - https://www.clarin.eu/resource-families/parallel-corpora
+- https://korpus.sk/moses_en.html
 
 ## Tools and implementations
 - https://nlp.web.tuke.sk/
