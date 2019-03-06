@@ -72,6 +72,7 @@ Interesting links to Slovak NLP tools, utils, corpora and resources.
 
 ### Vectors and analogies
 - TBD http://nlp.bednarik.top/
+- https://github.com/essential-data/word2vec-sk
 
 ### NER
 - http://nlp.bednarik.top/ner/
