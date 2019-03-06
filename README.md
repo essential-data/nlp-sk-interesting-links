@@ -4,6 +4,7 @@ Interesting links to Slovak NLP tools, utils, corpora and resources.
 ## Corpora
 - https://korpus.sk/structure1.html
 - https://catalog.ldc.upenn.edu/LDC2018S08
+- https://lindat.mff.cuni.cz/repository/xmlui/discover?field=language&filtertype=language&filter_relational_operator=equals&filter=Slovak
 - https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0001-CCDB-0
 - https://ec.europa.eu/jrc/en/language-technologies/jrc-acquis
 - https://snap.stanford.edu/data/soc-Pokec.html
@@ -30,6 +31,9 @@ Interesting links to Slovak NLP tools, utils, corpora and resources.
 - https://github.com/dalibor-meszaros/SkCrfPosTagger
 - http://nlp.bednarik.top/tagger/
 - http://arl6.library.sk/nlp4sk/nlpservices/demo
+- https://nlp.fi.muni.cz/slovak-morphology-analyser/
+- http://ufal.mff.cuni.cz/morphodita (SK verziu má korpus.sk)
+- https://github.com/ufal/udpipe
 
 ### Tokenizer and segmentation
 - https://nlp.web.tuke.sk/pages/tokenizer
@@ -48,6 +52,7 @@ Interesting links to Slovak NLP tools, utils, corpora and resources.
 - http://www.forma.sk/prod-jm-ms.aspx
 - https://korektor.sk/korektor
 - http://sk-spell.sk.cx/
+- http://ufal.mff.cuni.cz/korektor
 
 ### Lemmatizer / Stemmer
 - https://github.com/essential-data/lucene-fst-lemmatizer
@@ -60,6 +65,7 @@ Interesting links to Slovak NLP tools, utils, corpora and resources.
 - https://github.com/mrshu/stemm-sk
 - https://github.com/mrshu/lemm-sk
 - https://github.com/michmech/lemmatization-lists/
+- http://nlp.kiv.zcu.cz/projects/hps
 
 ### Wordlists / Dictionaries
 - http://sk-spell.sk.cx/
@@ -86,3 +92,5 @@ Interesting links to Slovak NLP tools, utils, corpora and resources.
 
 ### Other
 - https://github.com/mrshu/otazkovac
+- https://corpora.fi.muni.cz/cblm/generate.cgi?language=slovak
+- https://korpus.sk/developer/
