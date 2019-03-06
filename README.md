@@ -57,6 +57,9 @@ Interesting links to Slovak NLP tools, utils, corpora and resources.
 - http://text.fiit.stuba.sk/lemmatizer/
 - http://www.forma.sk/prod-jm-is.aspx
 - http://www.forma.sk/prod-jm-us.aspx
+- https://github.com/mrshu/stemm-sk
+- https://github.com/mrshu/lemm-sk
+- https://github.com/michmech/lemmatization-lists/
 
 ### Wordlists / Dictionaries
 - http://sk-spell.sk.cx/
@@ -80,3 +83,6 @@ Interesting links to Slovak NLP tools, utils, corpora and resources.
 
 ### Linked / Open Data
 - http://arl6.library.sk/nlp4sk/nlpservices/demo
+
+### Other
+- https://github.com/mrshu/otazkovac
