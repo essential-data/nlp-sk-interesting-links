@@ -32,8 +32,8 @@ Interesting links to Slovak NLP tools, utils, corpora and resources.
 - http://nlp.bednarik.top/tagger/
 - http://arl6.library.sk/nlp4sk/nlpservices/demo
 - https://nlp.fi.muni.cz/slovak-morphology-analyser/
-- http://ufal.mff.cuni.cz/morphodita (SK verziu má korpus.sk)
-- https://github.com/ufal/udpipe
+- http://ufal.mff.cuni.cz/morphodita (SK version by korpus.sk)
+- https://github.com/ufal/udpipe (you need to find slovak models on lindat)
 
 ### Tokenizer and segmentation
 - https://nlp.web.tuke.sk/pages/tokenizer
@@ -52,7 +52,7 @@ Interesting links to Slovak NLP tools, utils, corpora and resources.
 - http://www.forma.sk/prod-jm-ms.aspx
 - https://korektor.sk/korektor
 - http://sk-spell.sk.cx/
-- http://ufal.mff.cuni.cz/korektor
+- http://ufal.mff.cuni.cz/korektor (TBD release slovak models)
 
 ### Lemmatizer / Stemmer
 - https://github.com/essential-data/lucene-fst-lemmatizer
