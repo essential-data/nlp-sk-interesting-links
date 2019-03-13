@@ -112,3 +112,4 @@ Feel free to add more interesting links via pull request.
 - https://corpora.fi.muni.cz/cblm/generate.cgi?language=slovak
 - https://korpus.sk/developer/
 - https://github.com/nemcek/notenizer
+- https://github.com/marxsk/langusta3
