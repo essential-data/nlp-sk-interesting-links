@@ -15,6 +15,8 @@ Feel free to add more interesting links via pull request.
 - https://www.clarin.eu/resource-families/parallel-corpora
 - https://korpus.sk/moses_en.html
 - http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
+- http://korpus.juls.savba.sk:8080/manatee.ks/index
+- http://www.statmt.org/europarl/
 
 ## Tools and implementations
 - https://nlp.web.tuke.sk/
