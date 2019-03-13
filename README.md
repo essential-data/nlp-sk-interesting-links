@@ -14,6 +14,7 @@ Feel free to add more interesting links via pull request.
 - http://ufal.mff.cuni.cz/~majlis/w2c/download.html
 - https://www.clarin.eu/resource-families/parallel-corpora
 - https://korpus.sk/moses_en.html
+- http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
 
 ## Tools and implementations
 - https://nlp.web.tuke.sk/
@@ -36,6 +37,7 @@ Feel free to add more interesting links via pull request.
 - https://nlp.fi.muni.cz/slovak-morphology-analyser/
 - http://ufal.mff.cuni.cz/morphodita (SK version by korpus.sk)
 - https://github.com/ufal/udpipe (you need to find slovak models on lindat)
+- http://try.ui.sav.sk/lemmatag/
 
 ### Tokenizer and segmentation
 - https://nlp.web.tuke.sk/pages/tokenizer
@@ -55,6 +57,7 @@ Feel free to add more interesting links via pull request.
 - https://korektor.sk/korektor
 - http://sk-spell.sk.cx/
 - http://ufal.mff.cuni.cz/korektor (TBD release slovak models)
+- http://try.ui.sav.sk/diacritics/
 
 ### Lemmatizer / Stemmer
 - https://github.com/essential-data/lucene-fst-lemmatizer
@@ -68,11 +71,13 @@ Feel free to add more interesting links via pull request.
 - https://github.com/mrshu/lemm-sk
 - https://github.com/michmech/lemmatization-lists/
 - http://nlp.kiv.zcu.cz/projects/hps
+- http://try.ui.sav.sk/lemmatag/
 
 ### Wordlists / Dictionaries
 - http://sk-spell.sk.cx/
 - https://korpus.sk/dicts.html
 - http://slex.sk/
+- https://github.com/Kroid/multext-data
 
 ### Dependency parsing
 - http://nlp.bednarik.top/parser/
@@ -84,6 +89,7 @@ Feel free to add more interesting links via pull request.
 ### Vectors and analogies
 - TBD http://nlp.bednarik.top/
 - https://github.com/essential-data/word2vec-sk
+- https://nlp.h-its.org/bpemb/sk/
 
 ### NER
 - http://nlp.bednarik.top/ner/
@@ -92,7 +98,15 @@ Feel free to add more interesting links via pull request.
 ### Linked / Open Data
 - http://arl6.library.sk/nlp4sk/nlpservices/demo
 
+### Topic extraction
+- https://github.com/GPalfy/socialnetworkcomments
+
+### Negation detection
+- https://github.com/majomix/negation-detector
+- https://github.com/jozo/NegNeg
+
 ### Other
 - https://github.com/mrshu/otazkovac
 - https://corpora.fi.muni.cz/cblm/generate.cgi?language=slovak
 - https://korpus.sk/developer/
+- https://github.com/nemcek/notenizer
