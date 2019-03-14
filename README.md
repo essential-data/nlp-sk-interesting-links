@@ -113,3 +113,4 @@ Feel free to add more interesting links via pull request.
 - https://korpus.sk/developer/
 - https://github.com/nemcek/notenizer
 - https://github.com/marxsk/langusta3
+- https://github.com/miso-belica/sumy
