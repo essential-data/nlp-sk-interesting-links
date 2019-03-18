@@ -92,6 +92,7 @@ Feel free to add more interesting links via pull request.
 - TBD http://nlp.bednarik.top/
 - https://github.com/essential-data/word2vec-sk
 - https://nlp.h-its.org/bpemb/sk/
+- http://vectors.nlpl.eu/repository/
 
 ### NER
 - http://nlp.bednarik.top/ner/
