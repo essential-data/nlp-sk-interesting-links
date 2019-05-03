@@ -108,6 +108,10 @@ Feel free to add more interesting links via pull request.
 - https://github.com/majomix/negation-detector
 - https://github.com/jozo/NegNeg
 
+### Annotation
+- https://webanno.github.io/webanno/
+- https://brat.nlplab.org/
+
 ### Other
 - https://github.com/mrshu/otazkovac
 - https://corpora.fi.muni.cz/cblm/generate.cgi?language=slovak
