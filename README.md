@@ -21,6 +21,7 @@ Feel free to add more interesting links via pull request.
 ## Tools and implementations
 - https://nlp.web.tuke.sk/
 - http://nlp.bednarik.top/
+- https://github.com/drndos/nlp-tools
 - http://text.fiit.stuba.sk
 - https://korpus.sk/tools.html
 - http://arl6.library.sk/nlp4sk/nlpservices/demo
