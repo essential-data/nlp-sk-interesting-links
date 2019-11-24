@@ -18,6 +18,10 @@ Feel free to add more interesting links via pull request.
 - http://korpus.juls.savba.sk:8080/manatee.ks/index
 - http://www.statmt.org/europarl/
 
+## Stopwords
+- https://github.com/stopwords-iso/stopwords-sk
+- http://text.fiit.stuba.sk/zoznam_stop_slov.php#focus
+
 ## Tools and implementations
 - https://nlp.web.tuke.sk/
 - http://nlp.bednarik.top/
