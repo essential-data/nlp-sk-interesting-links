@@ -21,6 +21,7 @@ Feel free to add more interesting links via pull request.
 ## Stopwords
 - https://github.com/stopwords-iso/stopwords-sk
 - http://text.fiit.stuba.sk/zoznam_stop_slov.php#focus
+- https://github.com/to-mas-re/stopwords-sk
 
 ## Tools and implementations
 - https://nlp.web.tuke.sk/
