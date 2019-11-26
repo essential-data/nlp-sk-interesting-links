@@ -89,6 +89,7 @@ Feel free to add more interesting links via pull request.
 
 ### Dependency parsing
 - http://nlp.bednarik.top/parser/
+- https://github.com/HIT-SCIR/ELMoForManyLangs
 
 ### Synonyms
 - http://nlp.bednarik.top/synonyms/
