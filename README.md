@@ -129,3 +129,8 @@ Feel free to add more interesting links via pull request.
 - https://github.com/dan-zeman/interset
 - https://github.com/Orange-OpenSource/conllueditor
 - https://github.com/SlovakNationalGallery/elasticsearch-slovencina
+
+## Publications
+- https://github.com/MatusPilnan/wpub-docbook
+- https://drndos.sk/bednarik-dp.pdf
+- https://korpus.sk/publications.html
