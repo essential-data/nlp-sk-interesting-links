@@ -30,6 +30,7 @@ Feel free to add more interesting links via pull request.
 - http://text.fiit.stuba.sk
 - https://korpus.sk/tools.html
 - http://arl6.library.sk/nlp4sk/nlpservices/demo
+- https://github.com/adobe/NLP-Cube
 
 ### Sentiment analysis
 - https://sentigrade.fiit.stuba.sk/analyzer
@@ -129,6 +130,7 @@ Feel free to add more interesting links via pull request.
 - https://github.com/dan-zeman/interset
 - https://github.com/Orange-OpenSource/conllueditor
 - https://github.com/SlovakNationalGallery/elasticsearch-slovencina
+- https://github.com/maaario/nlp-slovak-universal-language-model
 
 ## Publications
 - https://github.com/MatusPilnan/wpub-docbook
