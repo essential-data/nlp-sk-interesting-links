@@ -10,7 +10,9 @@ Feel free to add more interesting links via pull request.
 - https://ec.europa.eu/jrc/en/language-technologies/jrc-acquis
 - https://snap.stanford.edu/data/soc-Pokec.html
 - https://nlp.web.tuke.sk/pages/tedx
+- https://nlp.kemt.fei.tuke.sk/tedx
 - http://nlp.web.tuke.sk/static/files//scnc21.zip
+- https://nlp.kemt.fei.tuke.sk/static/files/swdc2.zip
 - http://ufal.mff.cuni.cz/~majlis/w2c/download.html
 - https://www.clarin.eu/resource-families/parallel-corpora
 - https://korpus.sk/moses_en.html
@@ -53,6 +55,7 @@ Feel free to add more interesting links via pull request.
 - http://nlp.bednarik.top/tokenizer/
 - http://nlp.bednarik.top/ssplit/
 - http://arl6.library.sk/nlp4sk/nlpservices/demo
+- https://github.com/hladek/slovak-lexer
 
 ### Text reconstruction, spelling, text quality
 - https://slovak-text-checker.herokuapp.com/
