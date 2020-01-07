@@ -135,6 +135,8 @@ Feel free to add more interesting links via pull request.
 - https://github.com/SlovakNationalGallery/elasticsearch-slovencina
 - https://github.com/maaario/nlp-slovak-universal-language-model
 
+- https://github.com/VoxForge/voxforge.github.io (for creating speech corpora)
+
 ## Publications
 - https://github.com/MatusPilnan/wpub-docbook
 - https://drndos.sk/bednarik-dp.pdf
