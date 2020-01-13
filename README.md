@@ -19,6 +19,7 @@ Feel free to add more interesting links via pull request.
 - http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
 - http://korpus.juls.savba.sk:8080/manatee.ks/index
 - http://www.statmt.org/europarl/
+- https://dumps.wikimedia.org/skwiki/latest/skwiki-latest-pages-articles.xml.bz2
 
 ## Stopwords
 - https://github.com/stopwords-iso/stopwords-sk
