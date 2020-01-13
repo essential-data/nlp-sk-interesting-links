@@ -20,6 +20,17 @@ Feel free to add more interesting links via pull request.
 - http://korpus.juls.savba.sk:8080/manatee.ks/index
 - http://www.statmt.org/europarl/
 - https://dumps.wikimedia.org/skwiki/latest/skwiki-latest-pages-articles.xml.bz2
+- http://opus.nlpl.eu/TildeMODEL-v2018.php
+- http://opus.nlpl.eu/DGT-v2019.php
+- http://opus.nlpl.eu/JW300-v1.php
+- http://opus.nlpl.eu/EMEA-v3.php
+- http://opus.nlpl.eu/EUbookshop-v2.php
+- http://opus.nlpl.eu/OpenSubtitles-v2018.php
+- http://opus.nlpl.eu/ECB-v1.php
+- http://opus.nlpl.eu/QED-v2.0a.php
+- http://opus.nlpl.eu/GNOME-v1.php
+- https://obcan.justice.sk/opendata
+- https://www.slov-lex.sk/archiv-zbierky-zakonov
 
 ## Stopwords
 - https://github.com/stopwords-iso/stopwords-sk
