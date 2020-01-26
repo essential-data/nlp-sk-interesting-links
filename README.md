@@ -49,6 +49,7 @@ Feel free to add more interesting links via pull request.
 ### Sentiment analysis
 - https://sentigrade.fiit.stuba.sk/analyzer
 - http://arl6.library.sk/nlp4sk/nlpservices/demo
+- https://github.com/SamuelPecar/Slovak-sentiment-analysis
 
 ### PoS Tagging
 - https://nlp.web.tuke.sk/nlpform
@@ -135,6 +136,23 @@ Feel free to add more interesting links via pull request.
 - https://webanno.github.io/webanno/
 - https://brat.nlplab.org/
 
+### Models
+#### ELMo
+- https://github.com/HIT-SCIR/ELMoForManyLangs
+#### Word2Vec
+- https://github.com/essential-data/word2vec-sk
+#### Bert
+- https://github.com/google-research/bert (multilingual)
+- https://github.com/Ardevop-sk/sk-bert-models
+#### ULMFiT
+- https://github.com/maaario/nlp-slovak-universal-language-model
+#### Lemma
+- https://github.com/essential-data/lucene-fst-lemmatizer
+#### PoS
+- https://github.com/Ardevop-sk/sk-pos-model
+#### Dependency parsing
+- https://github.com/Ardevop-sk/sk-dep-model
+
 ### Other
 - https://github.com/mrshu/otazkovac
 - https://corpora.fi.muni.cz/cblm/generate.cgi?language=slovak
@@ -145,7 +163,6 @@ Feel free to add more interesting links via pull request.
 - https://github.com/dan-zeman/interset
 - https://github.com/Orange-OpenSource/conllueditor
 - https://github.com/SlovakNationalGallery/elasticsearch-slovencina
-- https://github.com/maaario/nlp-slovak-universal-language-model
 
 - https://github.com/VoxForge/voxforge.github.io (for creating speech corpora)
 
