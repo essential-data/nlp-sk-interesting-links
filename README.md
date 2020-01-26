@@ -36,6 +36,7 @@ Feel free to add more interesting links via pull request.
 - https://github.com/stopwords-iso/stopwords-sk
 - http://text.fiit.stuba.sk/zoznam_stop_slov.php#focus
 - https://github.com/to-mas-re/stopwords-sk
+- https://github.com/Ardevop-sk/stopwords-sk
 
 ## Tools and implementations
 - https://nlp.web.tuke.sk/
@@ -62,6 +63,8 @@ Feel free to add more interesting links via pull request.
 - http://ufal.mff.cuni.cz/morphodita (SK version by korpus.sk)
 - https://github.com/ufal/udpipe (you need to find slovak models on lindat)
 - http://try.ui.sav.sk/lemmatag/
+- https://github.com/UniversalDependencies/UD_Slovak-SNK
+- https://universaldependencies.org/tagset-conversion/sk-snk-uposf.html
 
 ### Tokenizer and segmentation
 - https://nlp.web.tuke.sk/pages/tokenizer
