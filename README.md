@@ -3,23 +3,16 @@ Interesting links to **Slovak** NLP tools, utils, corpora and resources.
 Feel free to add more interesting links via pull request.
 
 ## Corpora
-- https://korpus.sk/structure1.html
-- https://catalog.ldc.upenn.edu/LDC2018S08
-- https://lindat.mff.cuni.cz/repository/xmlui/discover?field=language&filtertype=language&filter_relational_operator=equals&filter=Slovak
-- https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0001-CCDB-0
-- https://ec.europa.eu/jrc/en/language-technologies/jrc-acquis
-- https://snap.stanford.edu/data/soc-Pokec.html
-- https://nlp.web.tuke.sk/pages/tedx
-- https://nlp.kemt.fei.tuke.sk/tedx
-- http://nlp.web.tuke.sk/static/files//scnc21.zip
-- https://nlp.kemt.fei.tuke.sk/static/files/swdc2.zip
-- http://ufal.mff.cuni.cz/~majlis/w2c/download.html
-- https://www.clarin.eu/resource-families/parallel-corpora
-- https://korpus.sk/moses_en.html
-- http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
+### Search in corpus
 - http://korpus.juls.savba.sk:8080/manatee.ks/index
+### Pure text
+- https://obcan.justice.sk/opendata
+- https://www.slov-lex.sk/archiv-zbierky-zakonov
 - http://www.statmt.org/europarl/
 - https://dumps.wikimedia.org/skwiki/latest/skwiki-latest-pages-articles.xml.bz2
+- http://ufal.mff.cuni.cz/~majlis/w2c/download.html
+- https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0022-6133-9
+### Tokens/sentences
 - http://opus.nlpl.eu/TildeMODEL-v2018.php
 - http://opus.nlpl.eu/DGT-v2019.php
 - http://opus.nlpl.eu/JW300-v1.php
@@ -29,8 +22,48 @@ Feel free to add more interesting links via pull request.
 - http://opus.nlpl.eu/ECB-v1.php
 - http://opus.nlpl.eu/QED-v2.0a.php
 - http://opus.nlpl.eu/GNOME-v1.php
-- https://obcan.justice.sk/opendata
-- https://www.slov-lex.sk/archiv-zbierky-zakonov
+- https://ec.europa.eu/jrc/en/language-technologies/jrc-acquis
+- https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0001-CCDB-0
+- https://wortschatz.uni-leipzig.de/en/download
+### Automatically annotated PoS
+- https://korpus.sk/structure1.html
+- https://korpus.sk/moses_en.html
+- https://www.clarin.si/repository/xmlui/handle/11356/1043
+- https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AAE0-A
+- https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AADF-0
+- https://nlp.kemt.fei.tuke.sk/static/files/swdc2.zip
+- https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1743
+### Manually annotated PoS
+- https://korpus.sk/ver_r(2d)mak.html
+- https://github.com/UniversalDependencies/UD_Slovak-SNK
+### Annotated Dependencies
+- https://github.com/UniversalDependencies/UD_Slovak-SNK
+- https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1822
+### Graph
+- https://snap.stanford.edu/data/soc-Pokec.html
+
+### Speech
+- https://nlp.kemt.fei.tuke.sk/tedx
+- https://catalog.ldc.upenn.edu/LDC2018S08
+
+### Annotated Question answering
+- http://nlp.web.tuke.sk/static/files//scnc21.zip
+
+### Annotated NER
+- http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
+- https://nlp.kemt.fei.tuke.sk/static/files/swdc2.zip
+- http://nlp.web.tuke.sk/static/files//scnc21.zip
+
+### Annotated Sentiment analysis
+- https://sentigrade.fiit.stuba.sk/data
+
+### Diacritics restoration
+- https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2607
+
+### Annotated Translation ranking/errors
+- https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AADD-3
+- https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AADC-5
+- https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AADB-7
 
 ## Stopwords
 - https://github.com/stopwords-iso/stopwords-sk
@@ -63,7 +96,6 @@ Feel free to add more interesting links via pull request.
 - http://ufal.mff.cuni.cz/morphodita (SK version by korpus.sk)
 - https://github.com/ufal/udpipe (you need to find slovak models on lindat)
 - http://try.ui.sav.sk/lemmatag/
-- https://github.com/UniversalDependencies/UD_Slovak-SNK
 - https://universaldependencies.org/tagset-conversion/sk-snk-uposf.html
 
 ### Tokenizer and segmentation
@@ -156,6 +188,8 @@ Feel free to add more interesting links via pull request.
 - https://github.com/Ardevop-sk/sk-pos-model
 #### Dependency parsing
 - https://github.com/Ardevop-sk/sk-dep-model
+#### UDPipe
+- https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1971
 
 ### Other
 - https://github.com/mrshu/otazkovac
