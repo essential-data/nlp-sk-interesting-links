@@ -46,7 +46,7 @@ Feel free to add more interesting links via pull request.
 - https://nlp.kemt.fei.tuke.sk/tedx
 - https://catalog.ldc.upenn.edu/LDC2018S08
 
-### Annotated Question answering
+### Infromation retrieval evaluation
 - http://nlp.web.tuke.sk/static/files//scnc21.zip
 
 ### Annotated NER
