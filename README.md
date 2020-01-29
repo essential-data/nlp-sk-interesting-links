@@ -36,6 +36,9 @@ Feel free to add more interesting links via pull request.
 | [Sentigrade sentiment dataset](https://sentigrade.fiit.stuba.sk/data) | 2017 | x | x | | | | | M | | | x |
 | [BSNLP 2017](http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html) | 2017 | x | | | | | x | | | | x |
 
+### Positive/Negative words
+- https://sites.google.com/site/datascienceslab/projects/multilingualsentiment 
+
 ### Graph
 - https://snap.stanford.edu/data/soc-Pokec.html
 
@@ -54,7 +57,7 @@ Feel free to add more interesting links via pull request.
 - https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AADC-5
 - https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AADB-7
 
-## Stopwords
+### Stopwords
 - https://github.com/stopwords-iso/stopwords-sk
 - http://text.fiit.stuba.sk/zoznam_stop_slov.php#focus
 - https://github.com/to-mas-re/stopwords-sk
