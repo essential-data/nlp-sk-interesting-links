@@ -34,6 +34,7 @@ Feel free to add more interesting links via pull request.
 | [Slovak Dependency treebank](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1822) | 2016-11-07 | x | x | x | M | M | M | | | | x |
 | [Slovak Categorized News Corpus](http://nlp.web.tuke.sk/static/files//scnc21.zip) | 2016 | x | x | x | x | | x | | | | x |
 | [Sentigrade sentiment dataset](https://sentigrade.fiit.stuba.sk/data) | 2017 | x | x | | | | | M | | | x |
+| [BSNLP 2017](http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html) | 2017 | x | | | | | x | | | | x |
 
 ### Graph
 - https://snap.stanford.edu/data/soc-Pokec.html
@@ -44,11 +45,6 @@ Feel free to add more interesting links via pull request.
 ### Speech
 - https://nlp.kemt.fei.tuke.sk/tedx
 - https://catalog.ldc.upenn.edu/LDC2018S08
-
-### Annotated NER
-- http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
-- https://nlp.kemt.fei.tuke.sk/static/files/swdc2.zip
-- http://nlp.web.tuke.sk/static/files//scnc21.zip
 
 ### Diacritics restoration
 - https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2607
