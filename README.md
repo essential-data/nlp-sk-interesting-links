@@ -3,59 +3,52 @@ Interesting links to **Slovak** NLP tools, utils, corpora and resources.
 Feel free to add more interesting links via pull request.
 
 ## Corpora
-### Search in corpus
-- http://korpus.juls.savba.sk:8080/manatee.ks/index
-### Pure text
-- https://obcan.justice.sk/opendata
-- https://www.slov-lex.sk/archiv-zbierky-zakonov
-- http://www.statmt.org/europarl/
-- https://dumps.wikimedia.org/skwiki/latest/skwiki-latest-pages-articles.xml.bz2
-- http://ufal.mff.cuni.cz/~majlis/w2c/download.html
-- https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0022-6133-9
-### Tokens/sentences
-- http://opus.nlpl.eu/TildeMODEL-v2018.php
-- http://opus.nlpl.eu/DGT-v2019.php
-- http://opus.nlpl.eu/JW300-v1.php
-- http://opus.nlpl.eu/EMEA-v3.php
-- http://opus.nlpl.eu/EUbookshop-v2.php
-- http://opus.nlpl.eu/OpenSubtitles-v2018.php
-- http://opus.nlpl.eu/ECB-v1.php
-- http://opus.nlpl.eu/QED-v2.0a.php
-- http://opus.nlpl.eu/GNOME-v1.php
-- https://ec.europa.eu/jrc/en/language-technologies/jrc-acquis
-- https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0001-CCDB-0
-- https://wortschatz.uni-leipzig.de/en/download
-### Automatically annotated PoS
-- https://korpus.sk/structure1.html
-- https://korpus.sk/moses_en.html
-- https://www.clarin.si/repository/xmlui/handle/11356/1043
-- https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AAE0-A
-- https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AADF-0
-- https://nlp.kemt.fei.tuke.sk/static/files/swdc2.zip
-- https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1743
-### Manually annotated PoS
-- https://korpus.sk/ver_r(2d)mak.html
-- https://github.com/UniversalDependencies/UD_Slovak-SNK
-### Annotated Dependencies
-- https://github.com/UniversalDependencies/UD_Slovak-SNK
-- https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1822
+| Corpus name | Date | Text | Sents | Tokens | PoS | Deps | NER | Sentiment | Errors | Parallel | Download |
+| - | - | - | - | - | - | - | - | - | - | - | - |
+| [Súdne rozhodnutia](https://obcan.justice.sk/opendata) | latest | x | | | | | | | | | x |
+| [Zákony](https://www.slov-lex.sk/archiv-zbierky-zakonov) | latest | x | | | | | | | | | x |
+| [European Parliament Proceedings Parallel Corpus](http://www.statmt.org/europarl/) | 1996-2011 | x | | | | | | | | x | x |
+| [SK WIKI](https://dumps.wikimedia.org/skwiki/latest/skwiki-latest-pages-articles.xml.bz2) | latest | x | | | | | | | | | x |
+| [WEB Crawl w2c](http://ufal.mff.cuni.cz/~majlis/w2c/download.html) | 2011 | x | | | | | | | | | x |
+| [TildeMODEL](http://opus.nlpl.eu/TildeMODEL-v2018.php) | 2018 | x | x | x | | | | | | x | x |
+| [DGT (JRC)](http://opus.nlpl.eu/DGT-v2019.php) | 2019 | x | x | x | | | | | | x | x |
+| [JW300 (Jehovah’s Witnesses)](http://opus.nlpl.eu/JW300-v1.php) | 2019 | x | x | x | | | | | | x | x |
+| [EMEA](http://opus.nlpl.eu/EMEA-v3.php) | ? | x | x | x | | | | | | x | x |
+| [EUbookshop](http://opus.nlpl.eu/EUbookshop-v2.php) | ? | x | x | x | | | | | | x | x |
+| [OpenSubtitles](http://opus.nlpl.eu/OpenSubtitles-v2018.php) | 2018 | x | x | x | | | | | | x | x |
+| [ECB](http://opus.nlpl.eu/ECB-v1.php) | ? | x | x | x | | | | | | x | x |
+| [QCRI Educational Domain Corpus](http://opus.nlpl.eu/QED-v2.0a.php) | ? | x | x | x | | | | | | x | x |
+| [GNOME](http://opus.nlpl.eu/GNOME-v1.php) | ? | x | x | x | | | | | | x | x |
+| [JRC-acquis](https://ec.europa.eu/jrc/en/language-technologies/jrc-acquis) | 2019 | x | x | x | | | | | | x | x |
+| [SkTenTen](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0001-CCDB-0) | 2011-12-16 | x | x | x | | | | | | | x |
+| [Leipzig Corpora Collection - News Crawl](https://wortschatz.uni-leipzig.de/en/download) | 2011-2016 | x | x | | | | | | | | x |
+| [Leipzig Corpora Collection - Web Crawl](https://wortschatz.uni-leipzig.de/en/download) | 2014-2016 | x | x | | | | | | | | x |
+| [Korpus.sk - Multiple](https://korpus.sk/structure1.html) | 2003-2019 | x | x | x | x | | | | | | | |
+| [MULTEXT-East "1984"](https://www.clarin.si/repository/xmlui/handle/11356/1043) | 2010-05-14 | x | x | x | x | | | | | | x | x |
+| [English-Slovak Parallel Corpus - Multiple](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AAE0-A) | 2012-05-15 | x | x | x | x | | | | | | x | x |
+| [Czech-Slovak Parallel Corpus - Multiple](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AADF-0) | 2012-05-15 | x | x | x | x | | | | | | x | x |
+| [Slovak Web Discussion Corpus](https://nlp.kemt.fei.tuke.sk/webdiscussion) | 2014 | x | x | x | x | | x | | x | | x |
+| [Deltacorpus 1.1](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1743) | 2016-06-20 | x | x | x | x | | | | | | x | x |
+| [R-mak](https://korpus.sk/ver_r(2d)mak.html) | 2017 | x | x | x | M | | | | | | | |
+| [Slovak UD treebank](https://github.com/UniversalDependencies/UD_Slovak-SNK) | 2020 | x | x | x | M | M | M | | | | x |
+| [Slovak Dependency treebank](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1822) | 2016-11-07 | x | x | x | M | M | M | | | | x |
+| [Slovak Categorized News Corpus](http://nlp.web.tuke.sk/static/files//scnc21.zip) | 2016 | x | x | x | x | | x | | | | x |
+| [Sentigrade sentiment dataset](https://sentigrade.fiit.stuba.sk/data) | 2017 | x | x | | | | | M | | | x |
+
 ### Graph
 - https://snap.stanford.edu/data/soc-Pokec.html
+
+### Wordnet
+- https://korpus.sk/WordNet.html
 
 ### Speech
 - https://nlp.kemt.fei.tuke.sk/tedx
 - https://catalog.ldc.upenn.edu/LDC2018S08
 
-### Infromation retrieval evaluation
-- http://nlp.web.tuke.sk/static/files//scnc21.zip
-
 ### Annotated NER
 - http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
 - https://nlp.kemt.fei.tuke.sk/static/files/swdc2.zip
 - http://nlp.web.tuke.sk/static/files//scnc21.zip
-
-### Annotated Sentiment analysis
-- https://sentigrade.fiit.stuba.sk/data
 
 ### Diacritics restoration
 - https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2607
