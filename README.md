@@ -36,6 +36,8 @@ Feel free to add more interesting links via pull request.
 | [Sentigrade sentiment dataset](https://sentigrade.fiit.stuba.sk/data) | 2017 | x | x | | | | | M | | | x |
 | [BSNLP 2017](http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html) | 2017 | x | | | | | x | | | | x |
 | [Korpus slovenských právnych predpisov](https://www.juls.savba.sk/legalcorp.html) | 2021 | x | x | x | x | x | x | | | | x |
+| [CHIBY](https://www.juls.savba.sk/errcorp.html) | 2019 | x | x | x | | | | | x | | x |
+
 
 ### Positive/Negative words
 - https://sites.google.com/site/datascienceslab/projects/multilingualsentiment 
