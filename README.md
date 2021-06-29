@@ -153,6 +153,7 @@ Feel free to add more interesting links via pull request.
 - http://nlp.bednarik.top/ner/
 - http://arl6.library.sk/nlp4sk/nlpservices/demo
 - https://github.com/Ardevop-sk/sk-bert-ner
+- https://www.juls.savba.sk/nerd/
 
 ### Linked / Open Data
 - http://arl6.library.sk/nlp4sk/nlpservices/demo
