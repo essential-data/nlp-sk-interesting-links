@@ -103,7 +103,7 @@ Feel free to add more interesting links via pull request.
 ### Text reconstruction, spelling, text quality
 - https://slovak-text-checker.herokuapp.com/
 - http://text.fiit.stuba.sk:8081/
-- https://korpus.sk/diakritik.html
+- https://www.juls.savba.sk/diakritik.html
 - https://diakritika.brm.sk/
 - http://arl6.library.sk/nlp4sk/nlpservices/demo
 - https://www.umberto.sk/
