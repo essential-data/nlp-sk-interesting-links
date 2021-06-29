@@ -47,7 +47,7 @@ Feel free to add more interesting links via pull request.
 - https://korpus.sk/WordNet.html
 
 ### Speech
-- https://nlp.kemt.fei.tuke.sk/tedx
+- https://nlp.kemt.fei.tuke.sk/speech/tedx
 - https://catalog.ldc.upenn.edu/LDC2018S08
 
 ### Diacritics restoration
