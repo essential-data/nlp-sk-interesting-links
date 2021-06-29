@@ -35,7 +35,9 @@ Feel free to add more interesting links via pull request.
 | [Slovak Categorized News Corpus](http://nlp.web.tuke.sk/static/files//scnc21.zip) | 2016 | x | x | x | x | | x | | | | x |
 | [Sentigrade sentiment dataset](https://sentigrade.fiit.stuba.sk/data) | 2017 | x | x | | | | | M | | | x |
 | [BSNLP 2017](http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html) | 2017 | x | | | | | x | | | | x |
-| [Korpus slovenských právnych predpisov](https://www.juls.savba.sk/data.html) | 2020 | x | x | x | x | x | | | | | x |
+| [Korpus slovenských právnych predpisov](https://www.juls.savba.sk/legalcorp.html) | 2021 | x | x | x | x | x | x | | | | x |
+| [CHIBY](https://www.juls.savba.sk/errcorp.html) | 2019 | x | x | x | | | | | x | | x |
+
 
 ### Positive/Negative words
 - https://sites.google.com/site/datascienceslab/projects/multilingualsentiment 
@@ -47,7 +49,7 @@ Feel free to add more interesting links via pull request.
 - https://korpus.sk/WordNet.html
 
 ### Speech
-- https://nlp.kemt.fei.tuke.sk/tedx
+- https://nlp.kemt.fei.tuke.sk/speech/tedx
 - https://catalog.ldc.upenn.edu/LDC2018S08
 
 ### Diacritics restoration
@@ -87,6 +89,8 @@ Feel free to add more interesting links via pull request.
 - http://arl6.library.sk/nlp4sk/nlpservices/demo
 - https://nlp.fi.muni.cz/slovak-morphology-analyser/
 - http://ufal.mff.cuni.cz/morphodita (SK version by korpus.sk)
+- https://morphodita.juls.savba.sk (improved model compared to the one above)
+- https://www.juls.savba.sk/bezdiak/ (model for Slovak without diacritics)
 - https://github.com/ufal/udpipe (you need to find slovak models on lindat)
 - http://try.ui.sav.sk/lemmatag/
 - https://universaldependencies.org/tagset-conversion/sk-snk-uposf.html
@@ -101,7 +105,7 @@ Feel free to add more interesting links via pull request.
 ### Text reconstruction, spelling, text quality
 - https://slovak-text-checker.herokuapp.com/
 - http://text.fiit.stuba.sk:8081/
-- https://korpus.sk/diakritik.html
+- https://www.juls.savba.sk/diakritik.html
 - https://diakritika.brm.sk/
 - http://arl6.library.sk/nlp4sk/nlpservices/demo
 - https://www.umberto.sk/
@@ -145,11 +149,13 @@ Feel free to add more interesting links via pull request.
 - https://github.com/essential-data/word2vec-sk
 - https://nlp.h-its.org/bpemb/sk/
 - http://vectors.nlpl.eu/repository/
+- https://www.juls.savba.sk/semä.html
 
 ### NER
 - http://nlp.bednarik.top/ner/
 - http://arl6.library.sk/nlp4sk/nlpservices/demo
 - https://github.com/Ardevop-sk/sk-bert-ner
+- https://www.juls.savba.sk/nerd/
 
 ### Linked / Open Data
 - http://arl6.library.sk/nlp4sk/nlpservices/demo
