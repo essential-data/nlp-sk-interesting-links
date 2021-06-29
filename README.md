@@ -87,6 +87,8 @@ Feel free to add more interesting links via pull request.
 - http://arl6.library.sk/nlp4sk/nlpservices/demo
 - https://nlp.fi.muni.cz/slovak-morphology-analyser/
 - http://ufal.mff.cuni.cz/morphodita (SK version by korpus.sk)
+- https://morphodita.juls.savba.sk (improved model compared to the one above)
+- https://www.juls.savba.sk/bezdiak/ (model for Slovak without diacritics)
 - https://github.com/ufal/udpipe (you need to find slovak models on lindat)
 - http://try.ui.sav.sk/lemmatag/
 - https://universaldependencies.org/tagset-conversion/sk-snk-uposf.html
