@@ -27,7 +27,7 @@ Feel free to add more interesting links via pull request.
 | [MULTEXT-East "1984"](https://www.clarin.si/repository/xmlui/handle/11356/1043) | 2010-05-14 | x | x | x | x | | | | | | x | x |
 | [English-Slovak Parallel Corpus - Multiple](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AAE0-A) | 2012-05-15 | x | x | x | x | | | | | | x | x |
 | [Czech-Slovak Parallel Corpus - Multiple](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AADF-0) | 2012-05-15 | x | x | x | x | | | | | | x | x |
-| [Slovak Web Discussion Corpus](https://nlp.kemt.fei.tuke.sk/webdiscussion) | 2014 | x | x | x | x | | x | | x | | x |
+| [Slovak Web Discussion Corpus](https://nlp.kemt.fei.tuke.sk/language/webdiscussion) | 2014 | x | x | x | x | | x | | x | | x |
 | [Deltacorpus 1.1](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1743) | 2016-06-20 | x | x | x | x | | | | | | x | x |
 | [R-mak](https://korpus.sk/ver_r(2d)mak.html) | 2017 | x | x | x | M | | | | | | | |
 | [Slovak UD treebank](https://github.com/UniversalDependencies/UD_Slovak-SNK) | 2020 | x | x | x | M | M | M | | | | x |
