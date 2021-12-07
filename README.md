@@ -178,7 +178,7 @@ Feel free to add more interesting links via pull request.
 - https://github.com/essential-data/word2vec-sk
 #### Bert
 - https://github.com/google-research/bert (multilingual)
-- https://github.com/Ardevop-sk/sk-bert-model
+- https://github.com/gerulata/slovakbert
 #### ULMFiT
 - https://github.com/maaario/nlp-slovak-universal-language-model
 #### Lemma
