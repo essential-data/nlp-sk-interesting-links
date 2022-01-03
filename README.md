@@ -189,6 +189,8 @@ Feel free to add more interesting links via pull request.
 - https://github.com/Ardevop-sk/sk-dep-model
 #### UDPipe
 - https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1971
+#### Hugging Face
+- https://huggingface.co/models?language=sk&sort=downloads
 
 ### Other
 - https://github.com/mrshu/otazkovac
