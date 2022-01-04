@@ -51,6 +51,7 @@ Feel free to add more interesting links via pull request.
 ### Speech
 - https://nlp.kemt.fei.tuke.sk/speech/tedx
 - https://catalog.ldc.upenn.edu/LDC2018S08
+- https://github.com/facebookresearch/voxpopuli
 
 ### Diacritics restoration
 - https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2607
