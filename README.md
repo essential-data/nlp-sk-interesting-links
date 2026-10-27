@@ -69,16 +69,15 @@ Feel free to add more interesting links via pull request.
 
 ## Tools and implementations
 - https://nlp.web.tuke.sk/
-- http://nlp.bednarik.top/
 - https://github.com/drndos/nlp-tools
 - http://text.fiit.stuba.sk
 - https://korpus.sk/tools.html
-- http://arl6.library.sk/nlp4sk/nlpservices/demo
+- https://nlp4sk.eduself.sk
 - https://github.com/adobe/NLP-Cube
 
 ### Sentiment analysis
 - https://sentigrade.fiit.stuba.sk/analyzer
-- http://arl6.library.sk/nlp4sk/nlpservices/demo
+- https://nlp4sk.eduself.sk
 - https://github.com/SamuelPecar/Slovak-sentiment-analysis
 
 ### PoS Tagging
@@ -86,8 +85,7 @@ Feel free to add more interesting links via pull request.
 - https://github.com/hladek/dagger
 - http://morpholyzer.fiit.stuba.sk:8080/PosTagger/
 - https://github.com/dalibor-meszaros/SkCrfPosTagger
-- http://nlp.bednarik.top/tagger/
-- http://arl6.library.sk/nlp4sk/nlpservices/demo
+- https://nlp4sk.eduself.sk
 - https://nlp.fi.muni.cz/slovak-morphology-analyser/
 - http://ufal.mff.cuni.cz/morphodita (SK version by korpus.sk)
 - https://morphodita.juls.savba.sk (improved model compared to the one above)
@@ -98,9 +96,7 @@ Feel free to add more interesting links via pull request.
 
 ### Tokenizer and segmentation
 - https://nlp.web.tuke.sk/pages/tokenizer
-- http://nlp.bednarik.top/tokenizer/
-- http://nlp.bednarik.top/ssplit/
-- http://arl6.library.sk/nlp4sk/nlpservices/demo
+- https://nlp4sk.eduself.sk
 - https://github.com/hladek/slovak-lexer
 
 ### Text reconstruction, spelling, text quality
@@ -108,7 +104,7 @@ Feel free to add more interesting links via pull request.
 - http://text.fiit.stuba.sk:8081/
 - https://www.juls.savba.sk/diakritik.html
 - https://diakritika.brm.sk/
-- http://arl6.library.sk/nlp4sk/nlpservices/demo
+- https://nlp4sk.eduself.sk
 - https://www.umberto.sk/
 - http://www.forma.sk/spell.aspx
 - http://www.forma.sk/prod-jm-ms.aspx
@@ -120,8 +116,7 @@ Feel free to add more interesting links via pull request.
 ### Lemmatizer / Stemmer
 - https://github.com/essential-data/lucene-fst-lemmatizer
 - https://github.com/essential-data/stemmer-sk
-- http://nlp.bednarik.top/lemmatizer/
-- http://arl6.library.sk/nlp4sk/nlpservices/demo
+- https://nlp4sk.eduself.sk
 - http://text.fiit.stuba.sk/lemmatizer/
 - http://www.forma.sk/prod-jm-is.aspx
 - http://www.forma.sk/prod-jm-us.aspx
@@ -138,28 +133,24 @@ Feel free to add more interesting links via pull request.
 - https://github.com/Kroid/multext-data
 
 ### Dependency parsing
-- http://nlp.bednarik.top/parser/
 - https://github.com/HIT-SCIR/ELMoForManyLangs
 
 ### Synonyms
-- http://nlp.bednarik.top/synonyms/
 - http://www.forma.sk/tech-jm-thes.aspx
 
 ### Vectors and analogies
-- TBD http://nlp.bednarik.top/
 - https://github.com/essential-data/word2vec-sk
 - https://nlp.h-its.org/bpemb/sk/
 - http://vectors.nlpl.eu/repository/
 - https://www.juls.savba.sk/semä.html
 
 ### NER
-- http://nlp.bednarik.top/ner/
-- http://arl6.library.sk/nlp4sk/nlpservices/demo
+- https://nlp4sk.eduself.sk
 - https://github.com/Ardevop-sk/sk-bert-ner
 - https://www.juls.savba.sk/nerd/
 
 ### Linked / Open Data
-- http://arl6.library.sk/nlp4sk/nlpservices/demo
+- https://nlp4sk.eduself.sk
 
 ### Topic extraction
 - https://github.com/GPalfy/socialnetworkcomments
